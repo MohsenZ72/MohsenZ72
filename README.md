@@ -21,6 +21,8 @@ Most of my day-to-day work lives in private repositories. Here's what it powers:
 
 | Project | Description |
 | --- | --- |
+| [**countryball-war**](https://github.com/MohsenZ72/countryball-war) | Territory-capture real-time strategy. A deterministic 30 Hz simulation in its own package, four bot commanders tuned by measurement rather than guesswork, and a 12-level campaign — in 48 kB of JavaScript. No ads, no purchases, no tracking. [Play it →](https://mohsenz72.github.io/countryball-war/) |
+| [**rc-combat**](https://github.com/MohsenZ72/rc-combat) | *Garage Rumble* — 10-player toy-car combat racing round the house. Server-authoritative Colyseus simulation with layered anti-cheat, Babylon.js client, 10 furnished-room maps. [Play it →](https://mohsenz72.github.io/rc-combat/) |
 | [**deskpet**](https://github.com/MohsenZ72/deskpet) | Ambient 3D desktop pet for macOS. Tauri v2 + React Three Fiber client, an offline-first behaviour FSM, and an optional Gemini "brain" on NestJS |
 | [**Balloon-Pop**](https://github.com/MohsenZ72/Balloon-Pop) | WebAR game in the browser using face and hand tracking. [Play it →](https://mohsenz72.github.io/Balloon-Pop/) |
 | [**portfolio**](https://github.com/MohsenZ72/portfolio) | Interactive 3D portfolio built with React Three Fiber + GSAP. [Visit →](https://mohsenz72.github.io/portfolio/) |
